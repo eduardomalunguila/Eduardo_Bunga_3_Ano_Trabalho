@@ -1,0 +1,32 @@
+{
+    "contador_utentes": 4,
+    "utentes": {
+        "UT001": {
+            "numero_registo": "UT001",
+            "nome": "Eduardo Daniel",
+            "nif": "1234",
+            "data_nascimento": "04/02/2004",
+            "contacto": "934756959",
+            "contador_consultas": 1,
+            "historico_clinico": []
+        },
+        "UT002": {
+            "numero_registo": "UT002",
+            "nome": "Fineza Kiala",
+            "nif": "123456",
+            "data_nascimento": "08/08/2004",
+            "contacto": "931362082",
+            "contador_consultas": 1,
+            "historico_clinico": []
+        },
+        "UT003": {
+            "numero_registo": "UT003",
+            "nome": "Eduardo Bunga",
+            "nif": "12345",
+            "data_nascimento": "04/02/2004",
+            "contacto": "934756959",
+            "contador_consultas": 1,
+            "historico_clinico": []
+        }
+    }
+}
